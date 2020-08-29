@@ -1,5 +1,5 @@
  # POO
- une petite démo
+ poo grace
  class member
  {
  private $nom;
